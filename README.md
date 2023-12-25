@@ -18,5 +18,5 @@ To run the code in this repository, you need to have the following dependencies 
 - torchvision
 
 ## To Do
-- [ ] Visualizing the activations of the convolutional layery
+- [ ] Visualizing the activations of the convolutional layers
 - [x] Visualizing filters of the convolutional layers
